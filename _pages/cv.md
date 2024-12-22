@@ -28,7 +28,7 @@ Research
 * [Towards Privacy-Preserving Split Learning: Destabilizing Adversarial Inference and Reconstruction Attacks in the Cloud](https://dx.doi.org/10.2139/ssrn.5062204) (Preprint submitted to Elservier's Internet of Things)
 * External Reviewer: [The 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024)](https://raid2024.github.io/)
 
-Research
+Recognitions
 ======
 * Graduate Excellence Award in Computer Science (University of Waterloo, 2024)
 * Math Domestic Graduate Student Award (University of Waterloo, 2024)
