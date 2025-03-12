@@ -24,8 +24,8 @@ Work experience
 Research
 ======
 * [Area in circle: A novel evaluation metric for object detection](https://doi.org/10.1016/j.knosys.2024.111684) (Knowledge-Based Systems)
-* [A Survey on Deep Learning in Edge-Cloud Collaboration: Model Partitioning, Privacy Preservation, and Prospects](https://dx.doi.org/10.2139/ssrn.4799595) (Preprint submitted to Knowledge-Based Systems)
-* [Towards Privacy-Preserving Split Learning: Destabilizing Adversarial Inference and Reconstruction Attacks in the Cloud](https://dx.doi.org/10.2139/ssrn.5062204) (Preprint submitted to Elservier's Internet of Things)
+* [A Survey on Deep Learning in Edge-Cloud Collaboration: Model Partitioning, Privacy Preservation, and Prospects](https://doi.org/10.1016/j.knosys.2025.112965) (Knowledge-Based Systems)
+* [Towards Privacy-Preserving Split Learning: Destabilizing Adversarial Inference and Reconstruction Attacks in the Cloud](https://doi.org/10.1016/j.iot.2025.101558) (Internet of Things)
 * External Reviewer: [The 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024)](https://raid2024.github.io/)
 
 Recognitions
