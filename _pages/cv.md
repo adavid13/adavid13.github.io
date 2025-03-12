@@ -30,6 +30,7 @@ Research
 
 Recognitions
 ======
+* Registered [Engineer in Training (EIT)](https://myapegnb.apegnb.com/APEGNB-EN/Registry/Member-Details.aspx?ID=42494)
 * Graduate Excellence Award in Computer Science (University of Waterloo, 2024)
 * Math Domestic Graduate Student Award (University of Waterloo, 2024)
 * David MacNeil Prize for the senior engineering capstone design project (University of New Brunswick, 2021)
