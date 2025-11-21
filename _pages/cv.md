@@ -23,6 +23,7 @@ Work experience
 
 Research
 ======
+* [Personally identifiable information detection in smart edge computing: A robust model evaluation](https://doi.org/10.1016/j.knosys.2025.114153) (Knowledge-Based Systems)
 * [Area in circle: A novel evaluation metric for object detection](https://doi.org/10.1016/j.knosys.2024.111684) (Knowledge-Based Systems)
 * [A Survey on Deep Learning in Edge-Cloud Collaboration: Model Partitioning, Privacy Preservation, and Prospects](https://doi.org/10.1016/j.knosys.2025.112965) (Knowledge-Based Systems)
 * [Towards Privacy-Preserving Split Learning: Destabilizing Adversarial Inference and Reconstruction Attacks in the Cloud](https://doi.org/10.1016/j.iot.2025.101558) (Internet of Things)
