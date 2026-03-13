@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master of Mathematics (MMath) student in Computer Science at the [University of Waterloo](https://uwaterloo.ca), working as part of the [Cryptography, Security, and Privacy (CrySP)](https://crysp.uwaterloo.ca) lab under the supervision of [Prof. Florian Kerschbaum](https://cs.uwaterloo.ca/~fkerschb/).
+I recently completed my Master of Mathematics (MMath) in Computer Science at the [University of Waterloo](https://uwaterloo.ca), where I was part of the [Cryptography, Security, and Privacy (CrySP)](https://crysp.uwaterloo.ca) lab under the supervision of [Prof. Florian Kerschbaum](https://cs.uwaterloo.ca/~fkerschb/).
 
-My primary research interests lie in the Security, Privacy, and Safety of Large Language Models (LLMs) and Computer Vision Models. Currently, I investigate the robustness and reliability of automated methods for detecting machine-generated text (e.g. outputs from LLMs).
+My work has focused on the robustness of LLM-generated text detection, with broader interests in AI security, privacy, and safety across large language models and computer vision systems.
+
+I am particularly interested in ML/AI engineering roles involving applied research, production ML systems, and Generative AI, with a preference for opportunities in the Greater Toronto Area.
