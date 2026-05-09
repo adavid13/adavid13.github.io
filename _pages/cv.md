@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-* MMath in Computer Science, University of Waterloo (Jan. 2024 - Present)
-* Master of Computer Science, University of New Brunswick (Sept. 2022 - Dec. 2023, incomplete)
+* MMath in Computer Science, University of Waterloo (Jan. 2024 - Jan. 2026)
 * BSc in Software Engineering, University of New Brunswick (Sept. 2016 - May 2021)
 * Siemens Canada Engineering and Technology Academy (SCETA)
 
@@ -29,6 +28,7 @@ Research
 * [Towards Privacy-Preserving Split Learning: Destabilizing Adversarial Inference and Reconstruction Attacks in the Cloud](https://doi.org/10.1016/j.iot.2025.101558) (Internet of Things)
 * Peer Reviewer, [The 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024)](https://raid2024.github.io/)
 * Peer Reviewer, [Internet of Things; Engineering Cyber Physical Human Systems (2025)](https://www.sciencedirect.com/journal/internet-of-things)
+* Peer Reviewer, [Forty-Third International Conference on Machine Learning (ICML 2026)](https://icml.cc/)
 
 Recognitions
 ======
