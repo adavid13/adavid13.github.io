@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* University of Waterloo / RBC - Machine Learning Research Assistant (Jan 2024 - Jan 2026)
+* University of Waterloo - Machine Learning Research Assistant (Jan 2024 - Jan 2026)
 * Canadian Institute for Cybersecurity - Machine Learning Engineer (Sept. 2021 - Dec. 2023)
 * Siemens Canada - Software Developer (May 2020 - Sept. 2021)
 
