@@ -10,13 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-
-[Download my resume (PDF)](/files/Amir_David_Resume.pdf){: .btn .btn--primary}
-
-
-[Download my resume (PDF)](/files/Amir_David_Resume.pdf){: .btn .btn--info}
-
-
 [Download my resume (PDF)](/files/Amir_David_Resume.pdf){: .btn .btn--success}
 
 
