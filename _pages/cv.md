@@ -10,8 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
+
 [Download my resume (PDF)](/files/Amir_David_Resume.pdf){: .btn .btn--primary}
-<span class="btn__wrapper">[Download my resume (PDF)](/files/Resume.pdf){: .btn .btn--primary}</span>
+
 
 Education
 ======
