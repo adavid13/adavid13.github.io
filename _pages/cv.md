@@ -14,6 +14,12 @@ redirect_from:
 [Download my resume (PDF)](/files/Amir_David_Resume.pdf){: .btn .btn--primary}
 
 
+[Download my resume (PDF)](/files/Amir_David_Resume.pdf){: .btn .btn--info}
+
+
+[Download my resume (PDF)](/files/Amir_David_Resume.pdf){: .btn .btn--success}
+
+
 Education
 ======
 * MMath in Computer Science, University of Waterloo (Jan. 2024 - Jan. 2026)
